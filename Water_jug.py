@@ -37,4 +37,4 @@ def water_jug_bfs(jug1, jug2, target):
     return False
 
 
-water_jug_bfs(4, 3, 2)
+water_jug_bfs(5, 3, 4)
